@@ -42,7 +42,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **JAVA, springBoot, MySQL, Hibernate**
-- Checkout my <a href="https://shashi1049.github.io">Portfolio</a>
+- Checkout my <a href="https://sachingitcode.github.io">Portfolio</a>
 
 - 📫 How to reach me **the1sachinyadav@gmail.com**
 -  Know about my experiences [Resume]()
@@ -81,7 +81,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=shashi1049&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shashi1049"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sachingitcode&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sachingitcode"/></p>
 <br>
 <br>
 <br>
@@ -91,7 +91,7 @@ Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a 
 <br>
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shashi1049&theme=dark&background=000000)](https://github.com/shashi1049)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachingitcode&theme=dark&background=000000)](https://github.com/sachingitcode)
 
 
 
