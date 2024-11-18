@@ -1,616 +1,89 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sachin Portfolio Website</title>
-    <link rel="stylesheet" href="css/swiper-bundle.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+## Hi there 👋
 
-    <link rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-    />
-  </head>
-  <body>
 
-    <!--=======Scroll to top button=======-->
-    <div class="scrollToTop-btn flex-center">
-      <i class="fas fa-arrow-up"></i>        
-    </div>
-
-    <!--=======Light/Dark theme button=======-->
-
-    <!--=======Header=======-->
-<header>
-  <div class="nav-bar">
-<a href="#" class="logo">Sachin</a>
-<div class="navigation">
-  <div class="nav-items">
-    <div class="nav-close-btn"></div>
-    <a class="active" href="#home"  >Home</a>
-    <a href="#about">About</a>
-    <a href="#skills">Skills</a>
-    <!-- <a href="#My-project">Services</a> -->
-    <a href="#portfolio">Projects</a>
-    <a href="#contact">Contact</a>
-    <a href="images/Sachin-kh.pdf" download="fSachin-kh-Resume" onclick=" window.open('https://drive.google.com/file/d/1nv-HqV6P3j1OkwI_VaROECg3_yNB-dff/view?usp=drive_link','_blank')"> Resume <i class="fas fa-download"></i></a>
-  </div>
+<img src="https:// " height="300" width="500" style="max-width: 100%;">
+<div style="display: flex; justify-content: space-around;" >
+<div>
+<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Sachin +Yadav!;Senior+Software+Engineer...;" style="max-width: 100%;">
+<br/>
+<!-- <h3 align="left">A Java Backend developer</h3> -->
+Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a good grasp on core Java concepts. Self-motivated with a strong problem-solving mindset, interested in building user-centric & scalable products. Looking forward to joining a progressive organization to work on some interesting ideas.
 </div>
-<div class="nav-menu-btn"></div>
-  </div>
-</header>
-    <!--=======Home section=======-->
-
-    <section class="home flex-center" id="home">
-      <div class="home-container">
-        <div class="media-icons">
-          <a href="https://github.com/sachingitcode" target="_blank"><i class="fa-brands fa-github"></i></a>
-          <a href="https://www.linkedin.com/in/sachingitcode/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
-          
-        </div>
-        <div class="info">
-          <h2>Hi, I am Sachin Yadav</h2>
-          <h3>Senior Software Engineer</h3>
-          <p>Tech Lead Software Engineer, with over 7 years of experience specializing in Java Full Stack and Java/J2EE development. Proven expertise across the full software development lifecycle (SDLC), including business analysis, architecture design, coding, debugging, and system maintenance. Highly skilled in developing and demonstrating enterprise-level projects, particularly in Java, J2EE, SQL, and JavaScript, alongside frameworks and tools including Servlets, JSP, JSTL, JDBC, Spring MVC, Spring Boot,Microservices, HTML, jQuery, CSS, AJAX, Bootstrap, Vue.js and backend integration with databases like MySQL, MongoDB, and Oracle.</p>
-          <a href="#contact" class="btn">Contact me <i class="fas fa-arrow-circle-right"></i> </a>
-        </div>
-        <div class="home-img">
-           <img src="images/Sachin.png" alt="" >
-        </div>
-      </div>
-      <a href="#about" class="scroll-down">Scroll Down <i class="fas fa-arrow-down"></i> </a>
-    </section>
-
-    <!--=======About section=======-->
-<section class="about section" id="about">
-  <div class="container flex-center">
-    <h1 class="section-title-01">About Me</h1>
-    <h2 class="section-title-02">About Me</h2>
-    <div class="content flex-center">
-      <div class="about-img">
-        <img src="images/java-programming-word-cloud-hand-sphere-concept-white-background-127724638.jpg" alt="" >
-      </div>
-      <div class="about-info">
-        <div class="description">
-          <h3>I'm Sachin Yadav</h3>
-            <h4>A <span>Senior Full Stack Engineer</span></h4>
-            <p>Software Developer with a passion for developing innovative programs that
-              expedite the efficiency and effectiveness of organizational success. Well-
-              versed in technology and writing code to create reliable and user-friendly
-              systems. Confident communicator, strategic thinker, and innovative creator
-              to develop software that is customized to meet a company's organizational
-              needs, highlight its core competencies, and further its success.</p>
-        </div>
-       
-    <!-- <a href="" class="btn"> Download CV <i class="fas fa-download"></i></a> -->
-    <a href="images/Sachin-kh.pdf" download="fw19_0771-sachingitcode-Resume" class="btn" onclick=" window.open('','_blank')"> Download RESUME <i class="fas fa-download"></i></a>
-      </div>
-    </div>
-  </div>
-</section>
-
-    <!--=======Skills section=======-->
-     <section class="skills section" id="skills">
-      <div class="container flex-center">
-        <h1 class="section-title-01">Skills</h1>
-        <h2 class="section-title-02">Skills</h2>
-        <div class="content">
-          <div class="skills-description">
-            <h3>Education & Skills</h3>
-            <p></p>
-          </div>
-          <div class="skills-info  education-all">
-           
-            <div class="education">
-              <h4><label>Tech Stack</label></h4>
-              <ul class="bars">
-                <li class="bar">
-                  <div class="info">
-                    <span>HTML</span>
-                    <img src="images/html.png" alt="">
-                  </div>
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>CSS</span>
-                    
-                    <img src="images/css.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Javascript</span>
-                    
-                    <img src="images/JS.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Java</span>
-                    
-                    <img src="images/Java.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Spring Boot</span>
-                    
-                    <img width="50px" src="images/Spring Boot.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>MySQL</span>
-                    
-                    <img src="images/mysql.png" alt="">
-                  </div>
-                  
-                </li>
-              </ul>
-            </div>
-
-            <div class="education">
-              <h4><label>Tools</label></h4>
-                
-                <li class="bar">
-                  <div class="info">
-                    <span>GitHub</span>
-                    
-                    <img src="images/Git Hub.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>VS Code</span>
-                    
-                    <img src="images/VS Code.png" alt="">
-                  </div>
-                 
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Git</span>
-                    
-                    <img src="images/icons8-git-48.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Spring Tool</span>
-                    
-                    <img style="width: 48px;" src="images/spring tool.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Swagger</span>
-                    
-                    <img style="width: 45px;" src="images/swagger1.png" alt="">
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Postman</span>
-                    
-                    <img style="width: 50px;" src="images/postman.png" alt="">
-                  </div>
-                  
-                </li>
-                
-              </ul>
-            </div>
-
-
-            <div class="education">
-              <h4><label>Soft-Skills</label></h4>
-              <ul class="bars">
-                <li class="bar">
-                  <div class="info">
-                    <span>Communication</span>
-                    <img style="width: 45px;" src="images/communication.jpg" alt="">
-                    
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Creativity</span>
-                    <img style="width: 48px;" src="images/creativity.jpg" alt="">
-                    
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Problem Solving</span>
-                    <img style="width: 48px;" src="images/problemSolving.png" alt="">
-                    
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Resourcefulness</span>
-                    <img style="width: 48px;" src="images/resource.png" alt="">
-                    
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Interest in Helping Others</span>
-                    <img style="width: 48px;" src="images/helping.jpg" alt="">
-                    
-                  </div>
-                  
-                </li>
-                <li class="bar">
-                  <div class="info">
-                    <span>Analytical Abilities</span>
-                    <img style="width: 48px;" src="images/analytical.jpg" alt="">
-                    
-                  </div>
-                  
-                </li>
-              </ul>
-            </div>
-            
-          </div>
-         
-        </div>
-      </div>
-     </section>
-    <!--=======Github section=======-->
-
-    <section class="skills section" id="skills">
-      <div class="container flex-center">
-      <h1 class="section-title-01">GitHub</h1>
-        <h2 class="section-title-02">Calender</h2>
-        </div>
-
-        <div class="calendar" >
-          <!-- Loading stuff -->
-          Loading the data just for you.
-          <link
-          rel="stylesheet"
-          href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-        />
-          </div>
-          
-      </section>
-
-      <section class="skills section" id="skills">
-        <div class="container flex-center">
-        <h1 class="section-title-01">GitHub</h1>
-          <h2 class="section-title-02">Stats</h2>
-        </div>
+    <div>
+       <!-- <img align="center" alt="Coding" heigh="50" width="50%" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" style="max-width: 100%>   -->
+     
         
-        <div align="center" >
-          <img class="measure" align="center" src="https://github-readme-stats.vercel.app/api?username=sachingitcode&count_private=true&show_icons=true&bg_color=FFFFFF&text_color=3b7087&icon_color=3b7087&title_color=3b7087&hide_border=false"/>
-           <img class="measure" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachingitcode&count_private=true&show_icons=true&bg_color=FFFFFF&text_color=3b7087&icon_color=3b7087&title_color=3b7087&hide_border=false"/>
-        </div>
-            
-      </section>
+</div>
+</div>
+                                                                                                                                                   
+---
+---
+<div>
+    <img align="right" alt="Coding" height="250" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+</div>
+
+
+- 🌱 I’m currently learning **Spring Boot**
+
+- 💬 Ask me about **JAVA, springBoot, MySQL, Hibernate**
+- Checkout my <a href="https://sachingitcode.github.io">Portfolio</a>
+
+- 📫 How to reach me **the1sachinyadav@gmail.com**
+-  Know about my experiences [Resume]()
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+</p>
+<br>
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/></a>&nbsp;   &nbsp;
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/></a>&nbsp;   &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> </a> &nbsp;   &nbsp;
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/> </a>&nbsp;   &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/></a>&nbsp;   &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"><img  alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="50" height="50" style="max-width: 100%;"></a> &nbsp;   &nbsp;
+<a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="max-width: 100%;"></a>  &nbsp;   &nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python"  alt="Python" width="50" height="50"/> </a>&nbsp;   &nbsp;
+
+</p>
+</p>
+
+---
+
+### :fire: My Stats :
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachingitcode&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="" /></p>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sachingitcode&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="sachingitcode"/></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sachingitcode&theme=dark&background=000000)](https://github.com/sachingitcode)
 
 
 
-      <!--======= Service Clients=======-->
+<img src="https://raw.githubusercontent.com/shivamgarg796/java/master/SB-101-sprint-3-Evaluation/src/com/question1/shivam.snake.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-      <section class="services section" id="services">
-        <div class="container flex-center">
-          <h1 class="section-title-01">My Statistics</h1>
-          <h2 class="section-title-02">My Statistics</h2>
-          <div class="content">
-            <div class="services-description">
-              <h3>What I Did</h3>
-              <!-- <h3>What I Achieve</h3> -->
-            </div>
-            <ul class="service-list">
-              <li class="service-container">
-                <div class="service-card">
-                  <i class="fa-solid fa-code"></i>
-                  <h3>20000+</h3>
-                  <h3>Hours Of Coding</h3>
-                </div>
-              </li>
-               <li class="service-container">
-                <div class="service-card">
-                  <i class="fa-solid fa-code"></i>
-                  <h3>6000+</h3>
-                  <h3>Hours Of DSA</h3>
-                </div>
-              </li>
-    
-              <li class="service-container">
-                <div class="service-card">
-                  <i class="fa-solid fa-code"></i>
-                  <h3>4+</h3>
-                  <h3>Mini Projects</h3>
-                </div>
-              </li>
-              <li class="service-container">
-                <div class="service-card">
-                  <i class="fa-solid fa-code"></i>
-                  <h3>6+</h3>
-                  <h3>Months Of Power Skills</h3>
-                </div>
-              </li>
-              
-            </ul>
-          </div>
-        </div>
-      </section>
-    
+---
 
+<img align="center" width="100%" src="https://camo.githubusercontent.com/3876d84a7281cfe74943eba94e61437f66d6d7a509b561282845d48cb9036c68/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d707269796134326261676465267468656d653d6f6e656461726b266d617267696e2d683d3135266d617267696e2d773d35266e6f2d62673d74727565" alt="TROPHY" style="max-width: 100%;">
 
-
-
-
-    <!--=======Portfolio section=======-->
-
-    <section class="portfolio section" id="portfolio">
-      <div class="our-client sub-section"> 
-        <div class="container flex-center">
-          <h1 class="section-title-01">My Projects</h1>
-          <h2 class="section-title-02">My Projects</h2>
-          <div class="content">
-            <div class="swiper client-swiper">
-              <div >  
-                <!-- class="swiper-wrapper" -->
-                <!-- Project 1 -->
-                <div class="swiper-slide flex-center" style="border:1px solid #3b7087 ; margin-bottom: 60px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; padding: 20px;">
-                  <div class="client-img">
-                    
-                    <img src="/images/lifestylestore.png" alt="">
-                  </div>
-                  <div style="display: grid;" class="client-details">
-                    <h3>Lifestyle Clone</h3>
-                    <p>Lifestyle is India's leading fashion destination for the latest
-                      trends for multiple categories including men, women and kids'
-                      apparel, footwear, handbags, fashion accessories and beauty and
-                      many more.</p>
-                     
-                    <span>Tech-Stack -  CSS | HTML | JAVASCRIPT</span>
-                    
-                    
-                    <h5><span class="hei">Features</span></h5>
-                    <span>- Account Login.</span>
-                    <span>- Product according to categories.</span>
-                    <span>- Add to cart, buy and payment.</span>
-                    <p></p>
-                    <h5 ><span class="hei">Areas of Responsibility</span></h5>
-                    <span>- Sign-Up</span>
-                    <span>- Sign-In</span>
-                    <p></p>
-
-                    <div class="pro-icon">
-                      <a href="https://github.com/Sandeeprawat313/Lifestyle-Clone" target="_blank" ><img src="images/icons8-github-96.png" style="width: 50px;" alt=""></a>
-                    <a href="https://shimmering-vacherin-7a95eb.netlify.app/" target="_blank" ><img src="images/web.png" style="width: 98px; width: 45px;" alt=""></a>
-
-                    </div>
-                    
-                    
-                  </div>
-                </div>
-                  <!-- Base seaction -->
-                  <!-- 2 project -->
-                  <div class="swiper-slide flex-center" style="border:1px solid #3b7087 ; margin-bottom: 60px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; padding: 20px;">
-                    <div class="client-img">
-                      <img src="images/pharmEasy.png" alt="">
-                      
-                    </div>
-                    <div style="display: grid;" class="client-details">
-                      <h3>PharmEasy Clone</h3> 
-                      <p>PharmEasy is an Indian e-pharmacy company that sells medicines, diagnostics and telehealth online.</p>
-                      
-                      <span>Tech-Stack -  CSS | HTML | JAVASCRIPT</span>
-                      
-                      <p></p>
-                      
-                      <h5><span class="hei">Features</span></h5>
-                      <span>- Complete E-commerce store.</span>
-                      <span>- Add to cart</span>
-                      <span>- Buy and payment</span>
-                      
-                      <p></p>
-                      <h5 ><span class="hei">Areas of Responsibility</span></h5>
-                      <span>- Created cart</span>
-                      <span>- Created the complete payment process after selecting the product.</span>
-                      <p></p>
-    
-                      <div class="pro-icon">
-                        <a href="https://github.com/spsanchore13/naive-cast-183" target="_blank" ><img src="images/icons8-github-96.png" style="width: 50px;" alt=""></a>
-                      <a href="https://naive-cast-183.vercel.app/" target="_blank" ><img src="images/web.png" style="width: 98px; width: 45px;" alt=""></a>
-    
-                      </div>
-                      
-                      
-                    </div>
-                  </div>
-
-                  <!-- 3 project -->
-
-                  <div class="swiper-slide flex-center" style="border:1px solid #3b7087 ; margin-bottom: 60px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; padding: 20px;">
-                    <div class="client-img">
-                      <img src="images/onlineBusAdda.jpeg" alt="">
-                      
-                    </div>
-                    <div style="display: grid;" class="client-details">
-                      <h3>Online Bus Adda</h3> 
-                      <p>Online Bus Adda is a bus reservation app where you can book a bus for each and every location as per your needs. also check buses details and admin can add, update bus details.</p>
-                      
-                      <span>Tech-Stack -  Java | MySQL | Spring Boot | Hibernate | Lombok | Swagger | Postman</span>
-                      
-                      <p></p>
-                      
-                      <h5><span class="hei">Features</span></h5>
-                      <span>- On-Board Registration.</span>
-                      <span>- Details Modification.</span>
-                      <span>- Easy access through API.</span>
-                      <span>- Manage through date.</span>
-                      <p></p>
-                      <h5 ><span class="hei">Areas of Responsibility</span></h5>
-                      <span>- Created User Module.</span>
-                      <span>- Created five APIs.</span>
-                      <p></p>
-    
-                      <div class="pro-icon">
-                        <a href="https://github.com/rahulrathore2110/Online-bus-adda" target="_blank" ><img src="images/icons8-github-96.png" style="width: 50px;" alt=""></a>
-                      <a href="https://drive.google.com/file/d/1MNPlzSNh3XubVO9n8_Ajd-Snym-uIvqY/view?usp=sharing" target="_blank" ><img src="images/video logo.jpg" style="width: 98px; width: 45px;" alt=""></a>
-    
-                      </div>
-                      
-                      
-                    </div>
-                  </div>
-
-                  <!-- 4 project -->
-
-                  <div class="swiper-slide flex-center" style="border:1px solid #3b7087 ; margin-bottom: 60px; box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; padding: 20px;">
-                    <div class="client-img">
-                      <img src="images/EvergreenEscape.jpeg" alt="">
-                      
-                    </div>
-                    <div style="display: grid;" class="client-details">
-                      <h3>Online Trip management System</h3> 
-                      <p>Online Trip Management System App where admin can add packages, route, buses and hotel and users can book packages according to theire needs and also can write feedback.</p>
-                      
-                      <span>Tech-Stack -  Java | MySQL | Spring Boot | Hibernate | Lombok | Swagger | Postman</span>
-                      
-                      <p></p>
-                      
-                      <h5><span class="hei">Features</span></h5>
-                      <span>- On-Board Registration.</span>
-                      <span>- Details Modification.</span>
-                      <span>- Easy access through API.</span>
-                      <span>- Manage through date.</span>
-                      <p></p>
-                      <h5 ><span class="hei">Areas of Responsibility</span></h5>
-                      <span>- Created Package Handlers</span>
-                      <span>- Created Booking Handlers</span>
-                      <p></p>
-    
-                      <div class="pro-icon">
-                        <a href="https://github.com/CharithGR/plastic-trucks-8734" target="_blank" ><img src="images/icons8-github-96.png" style="width: 50px;" alt=""></a>
-                      <a href="https://drive.google.com/file/d/1TuirpHEeD--49e0D9NsED33athQEuvLK/view?usp=share_link" target="_blank" ><img src="images/video logo.jpg" style="width: 98px; width: 45px;" alt=""></a>
-    
-                      </div>
-                      
-                      
-                    </div>
-                  </div>
-
-
-
-              </div>
-              
-              <div class="swiper-pagination"></div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </section>
-    
-      <!--=======Get-in-touct=======-->
-      
-      
-
-
-     <!--=======Contact section=======-->
-     <section class="contact section" id="contact">
-      <div class="container flex-center">
-        <h1 class="section-title-01">Contact Me</h1>
-        <h2 class="section-title-02">Contact Me</h2>
-        <div class="content">
-          <div class="contact-left">
-            <h2>Let's discuss</h2>
-            <ul class="contact-list"> 
-              <li>
-                <h3 class="item-title"><i class="fas fa-phone"></i>Phone</h3>
-                <span>+91 9050202007</span>
-              </li>
-              <li>
-                <h3 class="item-title"><i class="fas fa-envelope"></i>Email Address</h3>
-                <span><a href="mailto:the1sachinyadav@gmail.com">the1sachinyadav@gmail.com</a></span>
-              </li>
-              <li>
-                <h3 class="item-title"><i class="fas fa-map-marker-alt"></i>Address</h3>
-                <span>Gurgaon, India.</span>
-              </li>
-            </ul>
-          </div>
-          <div class="contact-right">
-            <p>I'm always open to discuss <br><span>design work or partnerships.
-           </span> </p>
-           <form action="" class="contact-form">
-            <div class="first-row">
-              <input type="text" placeholder="Name">
-            </div>
-            <div class="second-row">
-              <input type="text" placeholder="Email">
-              <input type="text" placeholder="Subject">
-            </div>
-            <div class="third-row">
-              <textarea name="message" id=""  rows="4" placeholder="Message"></textarea>
-            </div>
-            <button class="btn" type="submit">Send Message <i class="fas fa-paper-plane"></i></button>
-           </form>
-          </div>
-        </div>
-      </div>
-     </section>
-    <!--=======Footer=======-->
-        <footer>
-          <div class="footer-container">
-            <div class="about group">
-              <h2>Sachin</h2> 
-              <p>Full Stack Developer</p>
-              <a href="#about">About Me</a>
-          </div>
-          <div class="hr"></div>
-          <div class="info group">
-            <h3>More</h3>
-            <ul>
-              <li><a href="#skills">Skills</a></li>
-              
-              <li><a href="#portfolio">Projects</a></li>
-              <li><a href="#contact">Contact</a></li>
-            </ul>
-          </div>
-          <div class="hr"></div>
-          <div class="follow group">
-            <h3>Follow</h3>
-            <ul>
-              <li><a href="https://github.com/sachingitcode" target="_blank"><i class="fa-brands fa-github"></i></a></li>
-              <li><a href="https://www.linkedin.com/in/sachingitcode/" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
-              
-            </ul>
-          </div>
-        </div>
-        
-        </footer>
-
-
-    <!--=======External scripts=======-->
-    <!--script src="js/swiper-bundle.min.js"></script-->
-    <script src="js/main.js"></script>
-  </body>
-</html>
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
-<script>
-  GitHubCalendar(".calendar", "sachingitcode");
-  // or enable responsive functionality
-  GitHubCalendar(".calendar", "sachingitcode", { responsive: true });
-</script>
+---
