@@ -1,10 +1,7 @@
 ## Hi there 👋
 
-
-<img src="https:// " height="300" width="500" style="max-width: 100%;">
 <div style="display: flex; justify-content: space-around;" >
-<div>
-<br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Sachin +Yadav!;Senior+Software+Engineer...;" style="max-width: 100%;">
+
 <br/>
 <!-- <h3 align="left">Java Full Stack Software Engineer</h3> -->
 I am a skilled <b> Java Full Stack Engineer </b> with almost 7 years of experience in Java/J2EE development, adept at delivering robust and scalable enterprise solutions. 
