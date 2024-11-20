@@ -6,9 +6,9 @@
 <div>
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Sachin +Yadav!;Senior+Software+Engineer...;" style="max-width: 100%;">
 <br/>
-<!-- <h3 align="left">A Java Backend developer</h3> -->
-I am a skilled <b> Java Full Stack Engineer <b> with almost 7 years of experience in Java/J2EE development, adept at delivering robust and scalable enterprise solutions. 
-I have expertise in <b>Java<b>, <b>JEE<b>, <b>JDBC<b>, <b>JSP<b>, <b>web services<b>, and both client- and server-side technologies. I have strong proficiency in<b> Spring Boot, microservices <b> and web development using <b>HTML5<b>,<b> CSS3<b>,<b> Bootstrap<b>,<b> JavaScript <b>,<b> jQuery<b> ,<b> AJAX<b>, and JSTL Taglibs. Additionally, I am experienced in Bash scripting, XML, REST web services, Java Mail,<b> iBATIS<b>,<b> Hibernate<b>,<b> Vue.js<b>, and <b>Python<b>. I have good knowledge of <b> Mysql<b> ,<b> Oracle<b> and <b> PostgreSql <b> Database.
+<!-- <h3 align="left">Java Full Stack Software Engineer</h3> -->
+I am a skilled <b> Java Full Stack Engineer </b> with almost 7 years of experience in Java/J2EE development, adept at delivering robust and scalable enterprise solutions. 
+I have expertise in <b>Java</b>, <b>JEE</b>, <b>JDBC</b>, <b>JSP</b>, <b>web services</b>, and both client- and server-side technologies. I have strong proficiency in<b> Spring Boot, microservices </b> and web development using <b>HTML5</b>,<b> CSS3</b>,<b> Bootstrap</b>,<b> JavaScript </b>,<b> jQuery</b> ,<b> AJAX</b>, and JSTL Taglibs. Additionally, I am experienced in Bash scripting, XML, REST web services, Java Mail,<b> iBATIS</b>,<b> Hibernate</b>,<b> Vue.js</b>, and <b>Python</b>. I have good knowledge of <b> Mysql</b> ,<b> Oracle</b> and <b> PostgreSql </b> Database.
 I have hands-on experience with advanced Spring features such as Spring Cloud, Spring Security, AOP, Spring Data, Spring Batch, and Spring Integration. My Java expertise also includes Streams, Concurrency Enhancements, Java Memory Model, Garbage Collection, multithreading, and synchronization, ensuring scalable, secure, and high-performance applications.
 
 </div>
