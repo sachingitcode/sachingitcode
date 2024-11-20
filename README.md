@@ -6,7 +6,9 @@
 <!-- <h3 align="left">Java Full Stack Software Engineer</h3> -->
 I am a skilled <b> Java Full Stack Engineer </b> with almost 7 years of experience in Java/J2EE development, adept at delivering robust and scalable enterprise solutions. 
 I have expertise in <b>Java</b>, <b>JEE</b>, <b>JDBC</b>, <b>JSP</b>, <b>web services</b>, and both client- and server-side technologies. I have strong proficiency in<b> Spring Boot, microservices </b> and web development using <b>HTML5</b>,<b> CSS3</b>,<b> Bootstrap</b>,<b> JavaScript </b>,<b> jQuery</b> ,<b> AJAX</b>, and JSTL Taglibs. Additionally, I am experienced in Bash scripting, XML, REST web services, Java Mail,<b> iBATIS</b>,<b> Hibernate</b>,<b> Vue.js</b>, and <b>Python</b>. I have good knowledge of <b> Mysql</b> ,<b> Oracle</b> and <b> PostgreSql </b> Database.
+<br>
 I have hands-on experience with advanced Spring features such as Spring Cloud, Spring Security, AOP, Spring Data, Spring Batch, and Spring Integration. My Java expertise also includes Streams, Concurrency Enhancements, Java Memory Model, Garbage Collection, multithreading, and synchronization, ensuring scalable, secure, and high-performance applications.
+<br>
 I am currently working as <b> Team Lead </b> with additional responsibilities as an Associate Project Manager, I oversee project execution while leading the technical team, addressing and resolving challenges to ensure smooth progress. I collaborate closely with clients to gather requirements, design workflows, and align the team for seamless coordination. I work with QA teams to maintain quality standards and ensure successful deployments. I manage the project handover, providing well-documented designs, bug-free code, and addressing client queries to ensure smooth transitions. Additionally, I support the team by enhancing security, resolving technical issues, contributing to code development, and providing training on emerging technologies.
 
 </div>
