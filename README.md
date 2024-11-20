@@ -7,7 +7,10 @@
 <br/><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=30&amp;lines=Hey!+It's+Sachin +Yadav!;Senior+Software+Engineer...;" style="max-width: 100%;">
 <br/>
 <!-- <h3 align="left">A Java Backend developer</h3> -->
-Aspiring backend developer skilled in Spring-Boot & Hibernate frameworks with a good grasp on core Java concepts. Self-motivated with a strong problem-solving mindset, interested in building user-centric & scalable products. Looking forward to joining a progressive organization to work on some interesting ideas.
+I am a skilled <b> Java Full Stack Engineer <b> with almost 7 years of experience in Java/J2EE development, adept at delivering robust and scalable enterprise solutions. 
+I have expertise in <b>Java<b>, <b>JEE<b>, <b>JDBC<b>, <b>JSP<b>, <b>web services<b>, and both client- and server-side technologies. I have strong proficiency in<b> Spring Boot, microservices <b> and web development using <b>HTML5<b>,<b> CSS3<b>,<b> Bootstrap<b>,<b> JavaScript <b>,<b> jQuery<b> ,<b> AJAX<b>, and JSTL Taglibs. Additionally, I am experienced in Bash scripting, XML, REST web services, Java Mail,<b> iBATIS<b>,<b> Hibernate<b>,<b> Vue.js<b>, and <b>Python<b>. I have good knowledge of <b> Mysql<b> ,<b> Oracle<b> and <b> PostgreSql <b> Database.
+I have hands-on experience with advanced Spring features such as Spring Cloud, Spring Security, AOP, Spring Data, Spring Batch, and Spring Integration. My Java expertise also includes Streams, Concurrency Enhancements, Java Memory Model, Garbage Collection, multithreading, and synchronization, ensuring scalable, secure, and high-performance applications.
+
 </div>
     <div>
        <!-- <img align="center" alt="Coding" heigh="50" width="50%" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" style="max-width: 100%>   -->
